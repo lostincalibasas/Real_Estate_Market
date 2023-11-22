@@ -7,7 +7,7 @@
 3. [Key Tasks](#key)
 5. [Expected Outcomes ](#outcome)
 
-## Case Description<a name="case"></a>
+### Case Description<a name="case"></a>
 Welcome to the Real Estate Market Analysis with Python project! This project addresses the intricacies of the real estate market—a dynamic and multifaceted domain of immense interest to industry professionals, investors, policymakers, and data analysts. The goal is to comprehensively understand market conditions and customer behavior to facilitate informed decision-making.
 
 ### Background <a name="background"> </a>
