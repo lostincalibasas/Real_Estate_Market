@@ -18,6 +18,7 @@ The primary objective of this project is to preprocess, analyze, and visualize t
 
 ### Key Tasks <a name="key"> </a>
 - Data Preprocessing: Clean and organize the real estate data to ensure accuracy and reliability.
+- Descriptive Statistics : Provide a summary statistic that quantitatively describes features from a collection of variables
 - Data Analysis: Utilize Python for comprehensive analysis of property transactions and customer data.
 - Data Visualization: Create visualizations to represent key insights in a clear and interpretable manner.
 
